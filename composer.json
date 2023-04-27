@@ -94,7 +94,7 @@
             "docker": true
         },
         "paas": {
-            "document-root": "web",
+            "document-root": "public",
             "index-document": "index.php"
         },
         "incenteev-parameters": {
